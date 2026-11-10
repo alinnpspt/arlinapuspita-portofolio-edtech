@@ -39,7 +39,7 @@ A simple animation simulation built with block-based programming to practice seq
 [View on Scratch](https://scratch.mit.edu/projects/1386209417/)
 
 ### Simple Animation Simulation 2 (Scratch)
-A second animation simulation exploring [add topic, e.g. movement, a science concept].
+A second animation simulation exploring movement
 [View on Scratch](https://scratch.mit.edu/projects/1386134287/)
 
 ---
