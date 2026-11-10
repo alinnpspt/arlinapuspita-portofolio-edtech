@@ -20,7 +20,15 @@ I have a strong interest in educational technology, coding, and digital applicat
 - AI in Education
 
 ### 🚀 My Projects
-*Currently building and documenting my projects.*
+
+#### 01. Scratch — Project One
+[View Project](https://scratch.mit.edu/projects/1386209417/)
+
+#### 02. Scratch — Project Two
+[View Project](https://scratch.mit.edu/projects/1386134287/)
+
+#### 03. Educational Application
+Coming soon — documentation and project access will be added.
 
 ### 🎯 Career Interests
 EdTech | Coding Education | Learning Technology | Digital Learning Development
