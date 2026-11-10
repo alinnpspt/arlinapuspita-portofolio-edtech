@@ -1,34 +1,60 @@
-# Hi, I'm Arlina Puspita! 👋
+# Hi, I'm Arlina Puspita 👋
 
-### Aspiring EdTech Professional | Education & Technology Enthusiast
+### EdTech Content Developer | Educator & Game-Based Learning Creator
 
-I am an education graduate with experience in teaching, student development, and inclusive learning support.
+I'm an educator (Elementary Education, M.Ed.) who builds interactive digital learning experiences. I've taught science using the national and Cambridge curriculum, supported students with different learning needs, and I'm now turning that classroom experience into learning products.
 
-I have a strong interest in educational technology, coding, and digital application development. I enjoy exploring how technology can create more engaging, interactive, and meaningful learning experiences.
+I'm looking for a **junior developer or EdTech role** where pedagogy and hands-on building come together.
 
-### 🎓 Background
-- Bachelor's Degree in Primary School Teacher Education
-- Experience as an Elementary School Teacher
-- Experience in Inclusive Learning Support
-- Administrative and Digital Content Experience
+---
 
-### 💻 Technical Interests
-- Scratch Programming
-- Basic Programming Concepts
-- Educational Technology
-- Interactive Learning Media
-- AI in Education
+## 🚀 Featured Project
 
-### 🚀 My Projects
+### Interactive Science Comic: Light and Sound (Grade 5)
+**Built with:** GDevelop 5 · **Audience:** Grade 5 students · **Topic:** Science (Light and Sound)
 
-#### 01. Scratch — Project One
-[View Project](https://scratch.mit.edu/projects/1386209417/)
+An interactive comic-style learning app that teaches Grade 5 science concepts through a story instead of a plain text lesson.
 
-#### 02. Scratch — Project Two
-[View Project](https://scratch.mit.edu/projects/1386134287/)
+**What it does**
+- Presents the lesson as a comic with short text and visuals.
+- Asks students questions along the way. Each answer choice triggers a different response, so students get immediate feedback (for example, choosing option A leads to a response that fits that choice).
+- Uses sound effects and audio that match each scene, to support understanding and keep students engaged.
 
-### 🎯 Career Interests
-EdTech | Coding Education | Learning Technology | Digital Learning Development
+**What I designed and built**
+- The learning flow and story structure.
+- The question and answer logic (branching responses based on the student's choice).
+- Sound placement and scene design.
 
-### 📫 Let's Connect!
-Feel free to explore my projects and follow my learning journey!
+**Why I designed it this way:** Students understand abstract science ideas more easily when they can interact, make a choice, and see what happens. Immediate feedback lets them correct misunderstandings on the spot.
+
+📦 **Try the website:** https://komikedukasiduniaipa.netlify.app/
+📁 **Project files:** [`educational-projects/interactive-science-comic`](./educational-projects/interactive-science-comic)
+
+---
+
+## 🎨 More Projects
+
+### Simple Animation Simulation 1 (Scratch)
+A simple animation simulation built with block-based programming to practice sequencing, events, and computational thinking.
+[View on Scratch](https://scratch.mit.edu/projects/1386209417/)
+
+### Simple Animation Simulation 2 (Scratch)
+A second animation simulation exploring [add topic, e.g. movement, a science concept].
+[View on Scratch](https://scratch.mit.edu/projects/1386134287/)
+
+---
+
+## 🛠️ What I've Built With
+
+- **GDevelop 5**: interactive learning app with branching answers and audio
+- **Scratch**: animation simulations and computational thinking practice
+- **Content and curriculum design**: national and Cambridge curricula, learning assessment, SEO writing
+
+**Currently learning:** [HTML, CSS, JavaScript. Delete if not applicable]
+
+---
+
+## 📫 Let's Connect
+
+- Email: arlinapuspitasari04@gmail.com
+- LinkedIn: www.linkedin.com/in/arlina-puspita-sari-safitri-353ba4356
